@@ -10,7 +10,7 @@ You can visit this site, and use Burpsuite to investigate requests, etc.
 
 Ensure you are not connected to the VPN when running this exam, as you need Internet.
 
-# Code Set up
+# New Code Setup guide 
 
 
 A batch file (‘setup_flask.bat’) is created to test the code in Windows Operating System, which mimics the ‘run-app.sh’ script.
